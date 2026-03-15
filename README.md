@@ -46,7 +46,7 @@
   <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
 </p>
 
-###
+<br clear="both">
 ###
 
 <h3 align="left">📊  Estadísticas :</h3>
