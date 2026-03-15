@@ -49,7 +49,7 @@
 
 ###
 
-<h3 align="left">🔥  Estadísticas :</h3>
+<h3 align="left">📊  Estadísticas :</h3>
 
 ###
 
