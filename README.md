@@ -11,15 +11,15 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻  Sobre Mi</h3>
 
 ###
 
-<p align="left">- 📚 Computer Engineering -  UPSA</p>
+<p align="left">- 📚 Ingeniería Informática - UPSA</p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Lenguajes y Herramientas</h3>
 
 ###
 
@@ -49,7 +49,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥  Estadísticas :</h3>
 
 ###
 
