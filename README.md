@@ -30,7 +30,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" title="Swift" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" title="Django" width="40" height="40"/>&nbsp;&nbsp;
-  
+   
 </p>
 
 <br/>
